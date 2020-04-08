@@ -1,0 +1,3 @@
+<header class="header">
+  <view  class="headerTitle">{{title}}</view>
+</header>
